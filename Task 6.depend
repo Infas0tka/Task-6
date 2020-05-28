@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590665625 source:c:\users\kiril\downloads\task 6\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<fstream>
+
